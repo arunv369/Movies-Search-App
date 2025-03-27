@@ -17,28 +17,7 @@ A React-based movie search application that integrates with the OMDb API to allo
 1️⃣ Frontend: React, JavaScript, React Router
 2️⃣ Styling: Tailwind CSS
 3️⃣ State Management: useState, useEffect
-API Integration: OMDb API (REST API)
-
-🏗 Project Structure
-
-📂 movie-search-app
-┣ 📂 src
-┃ ┣ 📂 components
-┃ ┃ ┣ 📜 MovieCard.jsx
-┃ ┃ ┣ 📜 Navbar.jsx
-┃ ┃ ┣ 📜 Pagination.jsx
-┃ ┣ 📂 pages
-┃ ┃ ┣ 📜 Home.jsx
-┃ ┃ ┣ 📜 MovieDetails.jsx
-┃ ┃ ┣ 📜 Favorites.jsx
-┃ ┣ 📂 services
-┃ ┃ ┣ 📜 api.js
-┃ ┣ 📜 App.js
-┃ ┣ 📜 index.js
-┣ 📜 .env
-┣ 📜 .gitignore
-┣ 📜 package.json
-┣ 📜 README.md
+4️⃣ API Integration: OMDb API (REST API)
 
 📌 Usage
 1️⃣ Search for a movie by entering a title in the search bar
